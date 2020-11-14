@@ -1,3 +1,9 @@
-h3 {
-	background-color:red;
+.div1 {
+	background:red;
+}
+.div2 {
+	background:lime;
+}
+.div3 {
+	background:yellow
 }
