@@ -1,7 +1,5 @@
 .div1 {
 	background:red;
-	padding:2;
-	margin:2;
 }
 .div2 {
 	background:lime;
@@ -9,3 +7,8 @@
 .div3 {
 	background:yellow
 }
+.bomb1 {
+	margin:15px;
+	padding:15px;
+}
+
